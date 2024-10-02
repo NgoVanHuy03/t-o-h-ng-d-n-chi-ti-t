@@ -1,0 +1,9 @@
+1. Điền thông tin ở file user_info.txt
+2. Chạy file ytuong.py để sinh ra 20 ý tưởng
+3. Chạy file noidungchinh.py
+4. Chạy file NoiDungVideo.py
+5. Chạy file Chi_phi.py
+6. Chạy file BuocSanXuat.py
+7. Chạy file LichTrinh.py
+8. Chạy file Bosung.py
+9. Chạy file kehoach_quay.py
